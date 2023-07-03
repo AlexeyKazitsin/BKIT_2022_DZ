@@ -9,4 +9,4 @@
 |[ Лаба 5     ](https://github.com/AlexeyKazitsin/BKIT_2022_DZ/tree/lab_5)|Модульное тестирование в Python.|
 |[ Лаба 6     ](https://github.com/AlexeyKazitsin/BKIT_2022_DZ/tree/lab_6)|Разработка бота для Telegram с использованием языка Python.|
 |[ РК1        ](https://github.com/AlexeyKazitsin/BKIT_2022_DZ/tree/rk_1)|Рубежный контроль №1.|
-|[ ДЗ    _    ](https://github.com/AlexeyKazitsin/BKIT_2022_DZ/tree/hw)|Домашнее задание.|
+|[ ДЗ         ](https://github.com/AlexeyKazitsin/BKIT_2022_DZ/tree/hw)|Домашнее задание.|
